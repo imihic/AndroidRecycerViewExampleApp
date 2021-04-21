@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">ListaMihic</string>
+    <string name="broadcast" translatable="false">Broadcast</string>
+    <string name="dialogTitle">Jeste li sigurni?</string>
+    <string name="btnVisit">Posjeti web stranicu</string>
+    <string name="chooser_title" translatable="false">Open with</string>
+    <string name="ActivityError">Nije moguce pokrenuti aktivnost</string>
+    <string name="noConnectivity">Internet veza prekinuta!</string>
+    <string name="connected">Spojen na WiFi!</string>
+</resources>
